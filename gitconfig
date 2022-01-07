@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = nicola.pilcher@gmail.com
+	name = Nicola Pilcher
